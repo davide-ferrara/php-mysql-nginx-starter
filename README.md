@@ -1,1 +1,2 @@
-# Simple dokcer php, mysql, nginx and myphpadmin setup.
+# PHP MYSQL NGINX STARTER
+## Simple dokcer php, mysql, nginx and myphpadmin setup.
