@@ -1,2 +1,1 @@
-# PHP MYSQL NGINX STARTER
-## Simple dokcer php, mysql, nginx and myphpadmin setup.
+# php-login-page-example
